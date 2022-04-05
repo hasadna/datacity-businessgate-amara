@@ -1,0 +1,97 @@
+@import '../../../common.less';
+
+app-widget-sidepage-base {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    pointer-events: none;
+    z-index: 20;
+    overflow-x: hidden;
+
+    ::ng-deep {
+        .content {
+            display: flex;
+            flex-flow: column;
+            align-items: flex-start;
+        }
+        .page-container {
+            transform: translateX(-100%);
+            transition-property: transform;
+            transition-duration: 500ms;
+            display: flex !important;
+            &.open {
+                transform: translateX(0);
+            }
+        }
+    }
+}
+
+h1 {
+    .font2;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    color: @accent-text;
+    margin: 0px;
+}
+
+h2 {
+    .font2;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 53px;
+    border-bottom: 1px solid @black-200;
+    margin: 0;
+    width: 100%;
+
+    a, a:hover, a:visited {
+        color: @accent-text;
+        text-decoration: none;
+    }
+    &:last-of-type {
+        border: none;
+    }
+}
+
+img.logo-full {
+    width: 100%;
+    max-width: 100px;
+    margin-bottom: 32px;
+}
+
+.logos {
+    margin-top: auto;
+    width: 100%;
+    position: relative;
+    height: 38px;
+    overflow: hidden;
+
+    .logos-inner {
+        position: absolute;
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: flex-start;
+        animation: showcase 10s linear infinite;
+    
+        img {
+            flex: 0 0 auto;
+            height: 38px;
+            max-width: 120px;
+            margin: 0 12px
+        }    
+    }
+}
+
+@keyframes showcase {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(50%);
+    }
+}

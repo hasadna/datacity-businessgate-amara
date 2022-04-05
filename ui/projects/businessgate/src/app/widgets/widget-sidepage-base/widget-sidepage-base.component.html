@@ -1,0 +1,11 @@
+<div class='overlay' [class.open]='open'>
+    
+</div>
+<div class='page-container' [class.open]='open' [class.limited-width]='limitWidth'>
+    <div class='content'>
+        <ng-content></ng-content>
+    </div>
+    <a class='topleft-button' [routerLink]='[]' fragment=''>
+        <img class='close' src='assets/img/close.svg'>
+    </a>
+</div>

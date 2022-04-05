@@ -1,0 +1,47 @@
+@import '../../../common.less';
+
+:host {
+    display: block;
+}
+
+.card {
+    display: grid;
+    position: relative;
+    width: 100%;
+    // filter: blur(1px);
+
+    // &.active {
+    //     filter: blur(0px);
+    // }
+    // transition-property: filter;
+    // transition-duration: 100ms;
+
+    & > * {
+        grid-area: 1/1;  
+    }
+
+    .square {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        position: absolute;
+        padding: 4px;
+        border-radius: 4px;
+
+        .inner {
+            &.shadow {
+                // box-shadow: 0px -3px 24px rgba(0, 0, 0, 0.16), inset 0px 1px 1px rgba(255, 255, 255, 0.25);
+                // box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+                box-shadow: 0px 4px 4px rgba(128, 128, 128, 0.5)
+            }
+            border-radius: 4px;
+            height: 100%;
+
+            > ::ng-deep * {
+                border-radius: 4px;
+            }
+            overflow: hidden;
+          
+        }
+    }
+}

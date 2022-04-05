@@ -1,0 +1,42 @@
+@import '../../../common.less';
+@import '../widget-sidepage-base/widget-sidepage-common.less';
+
+app-widget-sidepage-base {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    pointer-events: none;
+    z-index: 20;
+
+    .credit {
+        display: flex;
+        flex-flow: row;
+        margin-top: 8px;
+        align-items: center;
+
+        .identity {
+            margin-right: 8px;
+            display: flex;
+            flex-flow: column;
+
+            .name {
+                .font2;
+                font-weight: 500;
+                font-size: 18px;
+                line-height: 18px;
+                color: @accent-text;
+                
+            }
+            .title {
+                .font2;
+                font-weight: 300;
+                font-size: 18px;
+                line-height: 18px;
+                color: @accent-text;
+            }
+        }
+    }
+}

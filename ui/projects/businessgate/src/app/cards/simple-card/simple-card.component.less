@@ -1,0 +1,69 @@
+@import '../../../common.less';
+
+.content {
+    width: 100%;
+    height: 100%;
+    padding: 20px 16px;
+    overflow-y: scroll;
+    display: flex;
+    flex-flow: column;
+
+    .no-scrollbars;
+
+    h1 {
+        .card-title;
+        font-size: 24px;
+        line-height: 32px;
+        margin: 0;
+    }
+ 
+    > p {
+        .card-text;
+        font-size: 16px;
+        margin: 8px 0;
+
+        ::ng-deep {
+            p {
+                margin: 8px 0;
+            }
+            ul {
+                margin: 0;
+                padding-right: 16px;
+            }
+            li {
+                margin: 0;
+                list-style-type: '  •  ';
+            }
+        }
+    }
+    > a.link {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: center;
+        padding: 4px 12px;
+        min-height: 48px;
+        background: rgba(44, 60, 59, 0.05);
+        border-radius: 4px;
+        margin-top: auto;
+
+        span {
+            .font2;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 22px;
+            color: @black-700;
+            margin-right: 12px;
+            line-height: 1em;
+        }
+        img {
+            margin-right: auto;
+            width: 24px;
+            height: 24px;
+        }
+
+        &, &:hover, &:visited {
+            text-decoration: none;
+        }
+    }
+}
