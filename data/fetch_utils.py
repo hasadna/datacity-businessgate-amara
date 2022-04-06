@@ -28,7 +28,7 @@ def fetch_airtable(kind, rid=None, view='Grid%20view'):
         HEADERS = {
             'Authorization': 'Bearer ' + API_KEY
         }
-        URL = 'https://api.airtable.com/v0/app7mXbmkFuB1KYG5/' + kind
+        URL = 'https://api.airtable.com/v0/appS26oaF2FevHUzY/' + kind
         print(URL)
         if rid:
             URL +=  '/' + rid
