@@ -31,7 +31,7 @@ export class ChatMsgShareDialogComponent implements OnInit, AfterContentInit {
         size_label: 'large',
         show_mobile_buttons: true,
         spacing: 8,
-        url: "https://br7biz.org.il",
+        url: "https://hasadna.github.io/datacity-businessgate-amara/", // TODO
         title: document.title
       });
     }
