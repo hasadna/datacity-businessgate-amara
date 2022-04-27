@@ -1,0 +1,34 @@
+[
+  {
+    "name": "ירושלים",
+    "email": "jerusalem@city.com",
+    "phone": "02-2222222",
+    "chief_licensing": "משה ירושלמי",
+    "chief_licensing_health": "יוסי ירושלמי",
+    "chief_licensing_engineering": "אלי ירושלמי",
+    "chief_licensing_title": "מנהל מחלקת רישוי, אגף רישוי עסקים",
+    "chief_licensing_health_title": "מנהל מחלקת בריאות הציבור, אגף רישוי עסקים",
+    "chief_licensing_engineering_title": "מנהל מחלקת תכנון ובנייה, אגף רישוי עסקים"
+  },
+  {
+    "name": "כפר-סבא",
+    "email": "kfar-saba@city.com",
+    "phone": "09-9999999",
+    "chief_licensing": "משה סבאי",
+    "chief_licensing_health": "יוסי סבאי",
+    "chief_licensing_engineering": "אלי סבאי",
+    "chief_licensing_title": "מנהל מחלקת רישוי, אגף רישוי עסקים",
+    "chief_licensing_health_title": "מנהל מחלקת בריאות הציבור, אגף רישוי עסקים",
+    "chief_licensing_engineering_title": "מנהל מחלקת תכנון ובנייה, אגף רישוי עסקים"
+  },
+  {
+    "name": "עיר שלא מופיעה ברשימה",
+    "chief_licensing": "ביזי",
+    "chief_licensing_health": "ביזי",
+    "chief_licensing_engineering": "ביזי",
+    "default": true,
+    "chief_licensing_title": "צוות האיגוד",
+    "chief_licensing_health_title": "צוות האיגוד",
+    "chief_licensing_engineering_title": "צוות האיגוד"
+  }
+]

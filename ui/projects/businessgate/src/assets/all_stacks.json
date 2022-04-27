@@ -189,7 +189,6 @@
         "word-count": 29
       }
     ],
-    "goodbye": "נושא הרישוי הוא בהחלט מורכב וזה רק הבסיס - אני זמינה כאן לכל שאלה!",
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial",
     "owner": {
@@ -209,6 +208,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done"
@@ -221,6 +223,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "stack-status": [
           "done"
         ],
@@ -231,6 +236,9 @@
         "content": "- **תב\"ע** (תכנית בניין עיר) היא המסמך החוקי שקובע את התנאים .להיתר בנייה\n- **היתר בנייה** הוא האישור לבנות מבנה ולהשתמש בו.\n- **ייעודי הקרקע** נקבעים בתב\"ע וקובעים בגדול מה יהיה במקום. למשל מגורים או מסחר.\n- **שימושים** נקבעים בתב\"ע וקובעים בצורה יותר מפורטת מה מותר ואסור. לפעמים הם מציינים בפירוט סוגי עסקים מותרים או אסורים. \n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
         ],
         "stack-status": [
           "done"
@@ -244,6 +252,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done"
@@ -256,6 +267,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "stack-status": [
           "done"
         ],
@@ -265,6 +279,9 @@
       {
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
         ],
         "stack-status": [
           "done"
@@ -283,6 +300,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "stack-status": [
           "done"
         ],
@@ -296,6 +316,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "stack-status": [
           "done",
           "done"
@@ -308,6 +331,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "stack-status": [
           "done"
         ],
@@ -315,13 +341,15 @@
         "word-count": 1
       }
     ],
-    "goodbye": "אשמח לעמוד לרשותך",
     "module": "רישוי עסק",
     "name": "engineering",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recqgrL1qK5G3VQGm",
+        "rec96uDRXisRsM1xj"
+      ],
+      "name": "{{city.chief_licensing_engineering}}",
+      "title": "{{city.chief_licensing_engineering_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -338,6 +366,9 @@
         "module": [
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
         ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
@@ -357,6 +388,9 @@
           "רישוי עסק"
         ],
         "module-old": "רישוי עסקים",
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done"
@@ -374,6 +408,9 @@
           "רישוי עסק"
         ],
         "module-old": "רישוי עסקים",
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done"
@@ -383,13 +420,15 @@
         "word-count": 42
       }
     ],
-    "goodbye": "אשמח לעמוד לרשותך",
     "module": "רישוי עסק",
     "name": "accessibility",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recqgrL1qK5G3VQGm",
+        "rec96uDRXisRsM1xj"
+      ],
+      "name": "{{city.chief_licensing_engineering}}",
+      "title": "{{city.chief_licensing_engineering_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -402,6 +441,9 @@
         "content": "גם לך וגם לנו חשוב שהלקחות שלך יהיו מרוצים, בריאים וירצו לצרוך את השירותים שלך שוב ושוב. לכן, כל עסק טעון רישוי שהפעילות שלו כוללת שירותים או מוצרים שיכולים להשפיע על בריאות הציבור, צריך לקבל אישור בנושא זה.\n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "recwm63xuzUc9n83b"
         ],
         "stack-status": [
           "done"
@@ -417,6 +459,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "recwm63xuzUc9n83b"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -430,6 +475,9 @@
         "content": "תנאי התברואה מורכבים ומפורטים עבור כל סוג עסק. נושאים כלליים לדוגמא כוללים את תנאי אחסון המזון, הטיפול בשומנים ונוזלים שונים הפרדה פיזית בין אזורי פעילות שונים. למידע נוסף יש לפנות למחלקת תברואה באגף רישוי עסקים.\n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "recwm63xuzUc9n83b"
         ],
         "stack-status": [
           "done"
@@ -450,6 +498,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "recwm63xuzUc9n83b"
+        ],
         "stack-status": [
           "done",
           "done"
@@ -459,13 +510,14 @@
         "word-count": 13
       }
     ],
-    "goodbye": "אני כאן לכל שאלה",
     "module": "רישוי עסק",
     "name": "sanitation",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "rec9LkvjXq9sbztkb"
+      ],
+      "name": "{{city.chief_licensing_health}}",
+      "title": "{{city.chief_licensing_health_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -524,6 +576,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "recwm63xuzUc9n83b"
+        ],
         "stack-status": [
           "done",
           "done"
@@ -533,7 +588,6 @@
         "word-count": 13
       }
     ],
-    "goodbye": "נשמח לענות על שאלות נוספות",
     "module": "רישוי עסק",
     "name": "fire-dept",
     "owner": {
@@ -568,6 +622,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "recwm63xuzUc9n83b"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -578,7 +635,6 @@
         "word-count": 24
       }
     ],
-    "goodbye": "נשמח לענות על שאלות נוספות",
     "module": "רישוי עסק",
     "name": "environment",
     "owner": {
@@ -606,7 +662,6 @@
         "word-count": 31
       }
     ],
-    "goodbye": "נשמח לענות על שאלות נוספות",
     "module": "רישוי עסק",
     "name": "ordinance",
     "owner": {
@@ -627,6 +682,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "stack-status": [
           "done",
           "done"
@@ -642,6 +700,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "recwm63xuzUc9n83b"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -652,7 +713,6 @@
         "word-count": 24
       }
     ],
-    "goodbye": "נשמח לענות על שאלות נוספות",
     "module": "רישוי עסק",
     "name": "agriculture",
     "owner": {
@@ -680,7 +740,6 @@
         "word-count": 32
       }
     ],
-    "goodbye": "נשמח לענות על שאלות נוספות",
     "module": "רישוי עסק",
     "name": "police",
     "owner": {
@@ -731,6 +790,9 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rec7UM0GPJrFOMytw"
+        ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done",
@@ -766,7 +828,6 @@
         "word-count": 1
       }
     ],
-    "goodbye": "מקווה שזה היה ברור, תמיד ניתן לפנות אלינו :)",
     "module": "רישוי עסק",
     "name": "common",
     "owner": {
@@ -969,7 +1030,6 @@
         "word-count": 29
       }
     ],
-    "goodbye": "נושא הרישוי הוא בהחלט מורכב וזה רק הבסיס - אני זמינה כאן לכל שאלה!",
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial-a",
     "owner": {
@@ -1172,7 +1232,6 @@
         "word-count": 29
       }
     ],
-    "goodbye": "נושא הרישוי הוא בהחלט מורכב וזה רק הבסיס - אני זמינה כאן לכל שאלה!",
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial-b",
     "owner": {
@@ -1375,7 +1434,6 @@
         "word-count": 29
       }
     ],
-    "goodbye": "נושא הרישוי הוא בהחלט מורכב וזה רק הבסיס - אני זמינה כאן לכל שאלה!",
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial-deposition",
     "owner": {

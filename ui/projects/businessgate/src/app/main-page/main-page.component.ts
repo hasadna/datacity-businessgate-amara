@@ -192,6 +192,18 @@ export class MainPageComponent implements OnInit, AfterViewInit, AfterContentChe
       );
       return obs.toPromise();
     }
+    const city = record.city;
+    if (!city) {
+      this.data.cities.pipe(
+        first(),
+      ).subscribe((cities) => {
+        cities.forEach((city) => {
+          if (!!city.default) {
+            record.city = city;
+          }
+        });
+      });
+    }
   }
 
   prepare_business_record(record) {

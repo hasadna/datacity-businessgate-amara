@@ -424,6 +424,9 @@ def get_content():
         ]
     return content
 
+def prepare_cities():
+    return fetch_airtable('cities')
+
 processors = {
     # 'commercial-areas': process_stack_commercial_areas,
     # 'demand.+': process_stack_demand,
@@ -446,6 +449,10 @@ if __name__ == "__main__":
     # with open('../ui/projects/businessgate/src/assets/locations.json', 'w') as f:
     #     locations = prepare_locations()
     #     json.dump(locations, f, ensure_ascii=False, indent=2)
+
+    with open('../ui/projects/businessgate/src/assets/cities.json', 'w') as f:
+        locations = prepare_cities()
+        json.dump(locations, f, ensure_ascii=False, indent=2)
 
     # with open('../ui/projects/businessgate/src/assets/neighborhoods.geojson', 'w') as f:
     #     neighborhoods_geojson = prepare_neighborhoods_geojson()

@@ -14,6 +14,7 @@ export class DataService {
   BUSINESS_LICENSING_DATA_URL = 'https://opendata.hasadna.org.il/dataset/d854bea1-69af-4763-a2b7-8b193bba2ca3/resource/3830d521-c9b3-46fe-9ba4-2d90483f79a2/download/business_kind_licensing_rules.json';
   BUSINESS_PROPERTY_TAX_DATA_URL = 'https://opendata.hasadna.org.il/dataset/d854bea1-69af-4763-a2b7-8b193bba2ca3/resource/371dad70-c782-4568-a3c1-8013d460521d/download/business_kind_property_tax_rules.json';
   LOCATIONS_DATA_URL = 'assets/locations.json';
+  CITIES_DATA_URL = 'assets/cities.json';
   
   STACKS_DATA_URL = 'assets/all_stacks.json';
   
@@ -24,6 +25,7 @@ export class DataService {
   public businesses_licensing = new ReplaySubject<any>(1);
   public businesses_property_tax = new ReplaySubject<any>(1);
   public locations = new ReplaySubject<any>(1);
+  public cities = new ReplaySubject<any>(1);
   public neighborhods = new ReplaySubject<any>(1);
   public demand_categories = new ReplaySubject<any>(1);
   public stacks = new ReplaySubject<any>(1);
@@ -45,11 +47,14 @@ export class DataService {
       this.businesses_property_tax.next(response);
       this.businesses_property_tax.complete();
     });
-    this.http.get(this.LOCATIONS_DATA_URL).subscribe((response) => {
-      this.locations.next(response);
-    });
-    this.http.get(this.DEMAND_CATEGORIES).subscribe((response) => {
-      this.demand_categories.next(response);
+    // this.http.get(this.LOCATIONS_DATA_URL).subscribe((response) => {
+    //   this.locations.next(response);
+    // });
+    // this.http.get(this.DEMAND_CATEGORIES).subscribe((response) => {
+    //   this.demand_categories.next(response);
+    // });
+    this.http.get(this.CITIES_DATA_URL).subscribe((response) => {
+      this.cities.next(response);
     });
     this.http.get(this.STACKS_DATA_URL).subscribe((response: any[]) => {
       const stacks = {};

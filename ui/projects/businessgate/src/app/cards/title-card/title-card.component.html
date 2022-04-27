@@ -3,8 +3,8 @@
         <div class='owner'>
             <app-owner-profile-photo [owner]='stack.owner' [size]='48' [borderWidth]='2' borderColor='#2C3C3B'></app-owner-profile-photo>
             <div class='deets'>
-                <span class='name'>{{stack.owner.name}}</span>
-                <span class='title'>{{stack.owner.title}}</span>
+                <span class='name' [innerHtml]='params.__runner.fillIn(stack.owner.name)'></span>
+                <span class='title' [innerHtml]='params.__runner.fillIn(stack.owner.title)'></span>
             </div>
         </div>
         <div class='title'>

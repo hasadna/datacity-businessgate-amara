@@ -2,7 +2,7 @@
   steps: 
     - goto: introduction
     - goto: select-business-kind
-    # - goto: select-location
+    - goto: select-location
     - goto: choose-property-size
     # - goto: topic-selection
     # - goto: first-contact
@@ -57,30 +57,30 @@
 - name: select-location
   steps:
     - say: >
-        לשאלה הבאה: יעניין אותך לשמוע על מתחמים עסקיים בעיר, או שכבר בחרת מיקום?
+        לשאלה הבאה: ידוע לך באיזו עיר אמור להיפתח העסק?
     - wait:
         options:
-          - show: אשמח לשמוע
-            echo: false
-            do:
-              cmd: select_commercial_area
-            # steps:
-            #   - cards:
-            #       stack: commercial-areas
-            #       variable: location
-            #       variable2: מיקום
-            #       response: בחרתי {{location.title}}
-          - show: כבר בחרתי מקום
+          # - show: אשמח לשמוע
+          #   echo: false
+          #   do:
+          #     cmd: select_commercial_area
+          #   # steps:
+          #   #   - cards:
+          #   #       stack: commercial-areas
+          #   #       variable: location
+          #   #       variable2: מיקום
+          #   #       response: בחרתי {{location.title}}
+          - show: כן, ידוע לי
             echo: false
             steps:
               - select-from-list:
-                  source: locations
-                  variable: location
-                  variable2: מיקום
-                  placeholder: חיפוש (כתובת העסק או שם מתחם עסקי…)
-                  response: בחרתי {{מיקום.שם}}
+                  source: cities
+                  variable: city
+                  # variable2: city
+                  placeholder: חיפוש שם העיר
+                  response: בחרתי {{city.name}}
               - say: נהדר!
-          - show: אבחר אחר כך
+          - show: אין עיר ספציפית
             class: grayed
             steps:
               - say: אין בעיה

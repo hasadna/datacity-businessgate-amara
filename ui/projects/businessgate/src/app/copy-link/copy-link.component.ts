@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { timer } from 'rxjs';
 
 @Component({
   selector: 'app-copy-link',
@@ -32,7 +33,11 @@ export class CopyLinkComponent implements OnInit {
     try {
       document.execCommand('copy');
       this.copied = true;
+      timer(3000).subscribe(() => {
+        this.copied = false;
+      });
     } catch (ex) {
+      console.log('FAILED TO COPY', ex);
     } finally {
       document.body.removeChild(txt);
     }

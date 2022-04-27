@@ -79,6 +79,21 @@ export class ChatMsgSelectFromListComponent implements OnInit {
         this.items.push(...result);
       })
     }
+    if (this.args.source === 'cities') {
+      this.data.cities.pipe(
+        first(),
+        map((result: any[]) => {
+          return result.map((x) => {
+            return {
+              value: x,
+              display: x.name
+            };  
+          });
+        }),
+      ).subscribe((result) => {
+        this.items.push(...result);
+      })
+    }
   }
 
   set done(value) {
