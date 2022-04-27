@@ -50,7 +50,6 @@ export class ChatMsgCopyLinkComponent implements OnInit {
   get link() {
     const args = this.params['copy-link'];
     if (args.arg) {
-      console.log('XXXX', args.arg, this.params.__runner.fillIn('{{' + args.arg + '}}'));
       return this.params.__runner.fillIn('{{' + args.arg + '}}');
     } else {
       return this.params.__runner.record.self_link || window.location.href;
