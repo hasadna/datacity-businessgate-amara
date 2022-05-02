@@ -32,9 +32,9 @@
             {
               "img": {
                 "mobile": {
-                  "asset": "assets/img/bot-hi.png",
+                  "asset": "assets/img/bot-amara.png",
                   "justify_content": "flex-start",
-                  "width": "40%"
+                  "width": "60%"
                 }
               },
               "uid": "b952412688"
@@ -721,14 +721,14 @@
             {
               "img": {
                 "desktop": {
-                  "asset": "assets/img/bye-desktop.png",
-                  "justify_content": "flex-start",
-                  "width": "40%"
+                  "asset": "assets/img/bot-amara.png",
+                  "justify_content": "center",
+                  "width": "60%"
                 },
                 "mobile": {
-                  "asset": "assets/img/bot-bye.png",
-                  "justify_content": "flex-start",
-                  "width": "40%"
+                  "asset": "assets/img/bot-amara.png",
+                  "justify_content": "center",
+                  "width": "60%"
                 }
               },
               "uid": "64e27bfb90"

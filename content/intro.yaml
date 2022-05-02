@@ -11,9 +11,9 @@
   steps:
     - img:
         mobile:
-          asset: assets/img/bot-hi.png
+          asset: assets/img/bot-amara.png
           justify_content: flex-start
-          width: '40%'
+          width: '60%'
     - say:  אני בִּיזִי, ביזנס-בוט קטן שמתמחה ברישוי עסקים באיגוד רישוי עסקים ושילוט ארצי
     - say: >
         המומחים באיגוד כתבו עבורי 
