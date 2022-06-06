@@ -425,7 +425,12 @@ def get_content():
     return content
 
 def prepare_cities():
-    return fetch_airtable('cities')
+    cities = fetch_airtable('cities')
+    for city in cities:
+        for k, v in city.items():
+            if isinstance(v, str):
+                city[k] = v.strip()
+    return cities
 
 processors = {
     # 'commercial-areas': process_stack_commercial_areas,
