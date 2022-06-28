@@ -45,6 +45,6 @@
 {{/if}}
 
 <br/><br/>
-<a href='{{self_link}}'><img src='https://br7biz.org.il/assets/img/email_footer.png'></a>
+<a href='{{self_link}}'><img src='https://bot.munibiz.org.il/assets/img/email_footer.png'></a>
 </body>
 </html>
