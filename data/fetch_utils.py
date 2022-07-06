@@ -19,25 +19,44 @@ for key in override:
         print('no such key', key)
         pass
 
-def fetch_airtable(kind, rid=None, view='Grid%20view'):
+def fetch_airtable_aux(kind, rid=None, view='Grid%20view', offset=None):
     API_KEY = os.environ.get('AIRTABLE_API_KEY')
+    HEADERS = {
+        'Authorization': 'Bearer ' + API_KEY
+    }
+    URL = 'https://api.airtable.com/v0/appS26oaF2FevHUzY/' + kind
+    if rid:
+        URL +=  '/' + rid
+        print(URL)
+        ret = requests.get(URL, headers=HEADERS).json()['fields']
+    else:
+        URL += f'?view={view}'
+        if offset:
+            URL += f'&offset={offset}'
+        print(URL)
+        resp = requests.get(URL, headers=HEADERS).json()
+        ret = [x['fields'] for x in resp['records']], resp.get('offset')
+    return ret
+
+
+def fetch_airtable(kind, rid=None, view='Grid%20view'):
     key = '%s/%s' % (kind, rid)
     try:
         return _cache.get(key)
     except (KeyError, AssertionError):
-        HEADERS = {
-            'Authorization': 'Bearer ' + API_KEY
-        }
-        URL = 'https://api.airtable.com/v0/appS26oaF2FevHUzY/' + kind
-        print(URL)
         if rid:
-            URL +=  '/' + rid
-            ret = requests.get(URL, headers=HEADERS).json()['fields']
+            return fetch_airtable_aux(kind, rid=rid)
         else:
-            URL += f'?view={view}&maxRecords=1000'
-            ret = [x['fields'] for x in requests.get(URL, headers=HEADERS).json()['records']]
+            ret = []
+            offset = None
+            while True:
+                recs, offset = fetch_airtable_aux(kind, view=view, offset=offset)
+                ret += recs
+                if not offset:
+                    break
         _cache.set(key, ret)
         return ret
+
 
 def fetch_ckan(dataset, resource_name):
     API_KEY = os.environ.get('CKAN_API_KEY')

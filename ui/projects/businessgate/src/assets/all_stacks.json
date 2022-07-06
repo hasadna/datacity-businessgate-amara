@@ -2,12 +2,18 @@
   {
     "cards": [
       {
-        "content": "חשוב לנו בעירייה לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
+        "content": "חשוב לנו לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -17,33 +23,36 @@
         ],
         "status": true,
         "title": "אסכם לך את זה ב-56 מילים",
-        "word-count": 56
+        "word-count": 55
       },
       {
-        "content": "בהתאם לסוג העסק והגדרת החוק, נציגי האגף שולחים את הבקשה לרישיון העסק לגורמי הרישוי השונים. כל גורם רישוי בודק נושא אחר. חלק מהגורמים שייכים לעיריית ב\"ש וחלקם משרדי ממשלה או רשויות ארציות. בכל מקרה, אגף רישוי עסקים מלווה אותך את בקבלת האישור מכל גורם.\n",
+        "content": "בצו רישוי עסקים מסווגים העסקים על פי נותני האישורים הנדרשים בכל עסק. מומלץ לעיין צו ולהבין מי נותני האישור בעסק שלך או להיוועץ עם העירייה. נותני האישור נדרשים למתן חוות דעת לבקשה לרישיון עד 30 ימים ועוד 7 ימים לאחר תזכורת. במידה ולא התקבלה חוות דעת יכולה העירייה להפיק היתר זמני בגין אי מענה.\n",
         "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
-          "done",
-          "done",
-          "done",
           "done"
         ],
         "status": true,
         "title": "מי נותן לי את האישור?",
-        "word-count": 43
+        "word-count": 54
       },
       {
-        "content": "קודם נקבע פגישה עם אחד מנציגי אגף רישוי עסקים, אפשר לקבוע גם פגישת וידאו\\*. בפגישה נעבור יחד על ההנחיות להגשת הבקשה לרישיון עסק.\nלאחר שהבקשה מוגשת (בעותק קשיח), לעיתים קרובות יש דרישות להשלמה, ולכן הזמן לקבלת הרישיון משתנה מעסק לעסק. לרוב בעלי העסקים מדובר בפרק זמן של מספר חודשים, אבל זה בהחלט יכול להיות קצר יותר. \n\n\\*בסוף הצ׳אט אנחה אותך כיצד ניתן לתאם שיחה כזו.\n",
+        "content": "לאחר הגשת הבקשה אנו ממליצים שתלווה באופן אישי את הליך אישור תכנית העסק גם כדי לוודא כי בעל המקצוע שהעסקת לטיפול בתכנית אכן מקדמה על פי הנדרש. כמו כן דרושה מעורבות שלך בקשר עם נותני האישור השונים ולוודא שמגיעים לביקורת בעסק וכד'. אנחנו כמובן נבצע זאת יחד עמך. מעורבות גבוהה שלך בהליך יכולה לקדם רישיון בזמן קצר יותר. \n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -53,15 +62,21 @@
         ],
         "status": true,
         "title": "איך נעשה את זה?",
-        "word-count": 64
+        "word-count": 59
       },
       {
-        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון. \n",
+        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסביבה לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -87,6 +102,12 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -99,84 +120,20 @@
       },
       {
         "business_kinds": [
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר",
-          "בית קפה/מסעדה",
-          "פאב, בר או מועדון",
-          "אולם ארועים"
-        ],
-        "content": "עסקים עתירי סיכון נפוצים לדוגמא: אולמות שמחה, פאבים או ברים מעל שטח 100 מ\"ר, מסעדות מעל שטח 300 מ\"ר, משחקיות, עסקים מעל שטח 800 מ\"ר. בכל מקרה, במידה והעסק שלך הוא כזה, נדבר על זה בפגישה שלנו להבנת דרישות רישוי העסק.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "האם העסק שלי הוא כזה?",
-        "word-count": 41
-      },
-      {
-        "business_kinds": [
-          "בית קפה/מסעדה"
-        ],
-        "content": "מעל שטח 300 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים. \n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי מסעדה מוגדרת כעסק עתיר סיכון/קהל?",
-        "word-count": 15
-      },
-      {
-        "business_kinds": [
-          "פאב, בר או מועדון"
-        ],
-        "content": "מעל שטח 100 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי פאב/בר/מועדון נחשב עסק עתיק סיכון/קהל?",
-        "word-count": 14
-      },
-      {
-        "business_kinds": [
           "טעוני רישוי"
         ],
-        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק.\n",
+        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק. על פי חוק בבקשה להחלפת בעלות בעסק שיש לו רישיון (ולא נדרש בעסק אישור משטרה) ניתן להעביר את הרישיון כמעט באופן אוטומטי בתנאי עמידה בתנאי 'העברת בעלות' (תצהיר בעל העסק היוצא יחד עם בעל העסק החדש + הצגת תאריך חוזה העברת בעלות + תצהיר שלא בוצע שינוי בעסק). בעסק שנדרש אישור משטרה ינתן היתר זמני ל 30 ימים בעת העברת בעלות עד לקבלת התייחסות המשטרה בגין הבעלים החדש\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -186,15 +143,27 @@
         ],
         "status": true,
         "title": "טיפ של אלופים",
-        "word-count": 29
+        "word-count": 97
       }
     ],
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -204,7 +173,7 @@
   {
     "cards": [
       {
-        "content": "המחלקה שלנו אחראית על יישום חוק התכנון והבנייה במתן רישיון העסק. אנחנו נעזור לך לקבל מידע מקדמי על המבנה בו יוקם העסק ולהסביר את הדרישות הספציפיות עבורו. בנוסף, נעזור לך בקשר לאגף ההנדסה בעירייה. זה באמת נושא מורכב ומקצועי, ולכן הכנו לך מספר כרטיסיות שינסו לעשות קצת סדר.\n",
+        "content": "חוק רישוי עסקים מורה על בדיקת דיני תכנון ובנייה במסגרת טיפול בבקשה לרישיון עסק. \nהעסק צריך להתאים לשימוש המוגדר בתב\"ע (תוכנית בניין עיר) וב-היתר הבנייה. כמו כן - טופס 4 או תעודת גמר (אישור שהמבנה נבנה לפי ההיתר) ושבעסק אין חריגות בנייה שונות או צווים נגדו.\n",
         "module": [
           "רישוי עסק"
         ],
@@ -217,9 +186,10 @@
         ],
         "status": true,
         "title": "אגף רישוי עסקים - מחלקת תכנון ובנייה",
-        "word-count": 48
+        "word-count": 46
       },
       {
+        "content": "אם נדרשים שינויים במבנה הקיים הטעונים היתר בנייה (כדוגמת בניית ארובה, בניית מדרגות רגילות או מדרגות חירום, שינוי חזיתות, פתיחת דלתות נוספות בעסק, בניית מתקני קירור גדולים, הגדלת העסק באמצעות בנייה חיצונית, הקמת גלריה, חיבור שתי קומות לעסק אחד וכדומה) יידרש בעל העסק לפעול להוצאת היתר בנייה. \n",
         "module": [
           "רישוי עסק"
         ],
@@ -229,11 +199,11 @@
         "stack-status": [
           "done"
         ],
-        "title": "לב העניין",
-        "word-count": 1
+        "title": "הוצאת היתר בנייה",
+        "word-count": 48
       },
       {
-        "content": "- **תב\"ע** (תכנית בניין עיר) היא המסמך החוקי שקובע את התנאים .להיתר בנייה\n- **היתר בנייה** הוא האישור לבנות מבנה ולהשתמש בו.\n- **ייעודי הקרקע** נקבעים בתב\"ע וקובעים בגדול מה יהיה במקום. למשל מגורים או מסחר.\n- **שימושים** נקבעים בתב\"ע וקובעים בצורה יותר מפורטת מה מותר ואסור. לפעמים הם מציינים בפירוט סוגי עסקים מותרים או אסורים. \n",
+        "content": "אם השימוש המבוקש של העסק אינו תואם את היתר הבנייה התקף של המבנה או אינו תואם את תוכנית המתאר החלה על האזור (תב\"ע), יידרש בעל העסק לקבל מהוועדה המקומית \"היתר שימוש חורג\" על פי חוק התכנון והבנייה, התשכ\"ה 1965. לדוגמא: הפיכת דירת מגורים למספרה או מסעדה, שינוי מבנה תעשייה למסעדה וכדומה. הטיפול בקבלת היתר לשימוש חורג הוא באחריות בעל העסק. \nיש לזכור: קבלת היתר הבניה והיתר לשימוש חורג הם תנאי להוצאת רישיון עסק \n",
         "module": [
           "רישוי עסק"
         ],
@@ -244,11 +214,11 @@
           "done"
         ],
         "status": true,
-        "title": "ז'רגון מקצועי ששווה להכיר",
-        "word-count": 54
+        "title": "היתר שימוש חורג",
+        "word-count": 74
       },
       {
-        "content": "קודם כל נעזרים באיש מקצוע, אפשר ורצוי להתחיל להיוועץ בנו.. חוץ מזה, העסק שלך צריך להתאפשר כשימוש בתב\"ע ובהיתר בנייה, צריך שלעסק או למבנה יהיה טופס 4 או תעודת גמר (אישור שהמבנה נבנה לפי ההיתר) ושבעסק אין חריגות בנייה שונות או צווים נגדו. לפעמים קיימת מדיניות תכנונית שיכולה להשפיע על הקמת העסק ונוכל להסביר לך עליה גם.\n",
+        "content": "מומלץ ליצור קשר עם העירייה לקבלת מידע בנוגע לנכס בו עומד לקום העסק: בדיקה אם ישנם תביעות או צווים, אם קיים היתר בנייה ולמה מיועד, מה מוגדר בתב\"ע, והתייעצות כללית.\n",
         "module": [
           "רישוי עסק"
         ],
@@ -261,9 +231,10 @@
         ],
         "status": true,
         "title": "איך נכון לגשת לזה?",
-        "word-count": 57
+        "word-count": 30
       },
       {
+        "content": "בהתאם לחוק הנגישות, לשם קבלת היתר זמני או רישיון עסק יש לעמוד בדרישות הנגישות בהתאם לחוק שוויון לאנשים עם מוגבלויות ותקנותיו.\n",
         "module": [
           "רישוי עסק"
         ],
@@ -273,10 +244,11 @@
         "stack-status": [
           "done"
         ],
-        "title": "כדאי לשים לב",
-        "word-count": 1
+        "title": "נגישות",
+        "word-count": 21
       },
       {
+        "content": "בצו רישוי עסקים מסווגים העסקים על פי דרישות הנגישות שיש לעמוד בהם. ישנם עסקים (בעיקר קטנים) שצריכים להגיש תצהיר בעל העסק ובדיקה עצמית בלבד. ישנם עסקים שצריכים להגיש חוות דעת מורשה נגישות שירות בלבד. וישנם עסקים שצריכים להגיש חוות דעת מורשה נגישות מתו\"ס (מבנים, תשתיות וסביבה) ומורשה נגישות שירות גם יחד. מומלץ להיוועץ עם העירייה טרם העסקת בעל מקצוע בנושא כדי לעמוד על הדרישה הספציפית לעסק שלך.\n",
         "module": [
           "רישוי עסק"
         ],
@@ -286,59 +258,8 @@
         "stack-status": [
           "done"
         ],
-        "title": "הגבלת שילוט על מבנים לשימור",
-        "word-count": 1
-      },
-      {
-        "business_kinds": [
-          "בית קפה/מסעדה",
-          "אולם ארועים",
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר",
-          "פאב, בר או מועדון"
-        ],
-        "content": "יידרש ממך להביא מראש אישור קונסטרוקציה לאלמנטים במבנה.\n",
-        "module": [
-          "רישוי עסק"
-        ],
-        "owner": [
-          "rec7UM0GPJrFOMytw"
-        ],
-        "stack-status": [
-          "done"
-        ],
-        "status": true,
-        "title": "במידה ואני עסק עתיר סיכון, מה נדרש ממני?",
-        "word-count": 8
-      },
-      {
-        "content": "יש לקבל אישור מיוחד עבור מזון מן החי בצורתו הגולמית **או** טיפול בבע\"ח כמו שיש בעסקים מסוג איטליז, חנות חיות, מספרת לבע\"ח, בית קירור, בית מטבחיים, מפעל מזון וכדומה. על פי רוב אישור זה מחליף את אישור משרד הבריאות, אבל שווה לבדוק.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "owner": [
-          "rec7UM0GPJrFOMytw"
-        ],
-        "stack-status": [
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "אסכם לך את זה ב-40 מילים",
-        "word-count": 42
-      },
-      {
-        "module": [
-          "רישוי עסק"
-        ],
-        "owner": [
-          "rec7UM0GPJrFOMytw"
-        ],
-        "stack-status": [
-          "done"
-        ],
-        "title": "מה קורה עם עסקים דומים לשלי?",
-        "word-count": 1
+        "title": "איך זה מתבצע",
+        "word-count": 67
       }
     ],
     "module": "רישוי עסק",
@@ -348,6 +269,7 @@
         "recqgrL1qK5G3VQGm",
         "rec96uDRXisRsM1xj"
       ],
+      "avatar": "data:image/jpeg;base64,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",
       "name": "{{city.chief_licensing_engineering}}",
       "title": "{{city.chief_licensing_engineering_title}}"
     },
@@ -362,13 +284,14 @@
   {
     "cards": [
       {
-        "content": "העסק שלך צריך להיות נגיש גם לאנשים עם מוגבליות (זה החוק). מדובר בנגישות גם של תשתיות פיזיות וגם של השירות שניתן. אנחנו במחלקת נגישות באגף רישוי עסקים נעזור לך להבין את הדרישות השונות ונהיה הגורם המאשר לנושא.\n",
+        "content": "העסק שלך צריך להיות נגיש גם לאנשים עם מוגבליות (זה החוק). מדובר בנגישות גם של תשתיות פיזיות וגם של השירות שניתן\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק"
         ],
         "owner": [
-          "rec7UM0GPJrFOMytw"
+          "rec7UM0GPJrFOMytw",
+          "rectg1rnqiSD0U3PM"
         ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
@@ -377,13 +300,13 @@
         ],
         "status": true,
         "title": "נגישות",
-        "word-count": 37
+        "word-count": 21
       },
       {
         "business_kinds": [
           "טעוני רישוי"
         ],
-        "content": "לעיתים הרישוי מתבצע באמצעות חוות דעת מורשה נגישות ולעיתים באמצעות הצהרה בלבד. במקרים מסוימים, ניתן בהתאם לחוק הנגישות לבקש פטור מ\\*ביצוע\\* תקנות נגישות. הנ\"ל יתבצע באמצעות אישור ממורשה נגישות. למידע נוסף מומלץ לפנות אלינו באגף רישוי עסקים (קישור מחכה לך בסוף הצ'אט).\n",
+        "content": "לעיתים הרישוי מתבצע באמצעות חוות דעת מורשה נגישות ולעיתים באמצעות הצהרה בלבד. במקרים מסוימים, ניתן בהתאם לחוק הנגישות לבקש פטור מ\\*ביצוע\\* תקנות נגישות. הנ\"ל יתבצע באמצעות אישור ממורשה נגישות. למידע נוסף מומלץ לפנות לאגף רישוי עסקים.\n",
         "module": [
           "רישוי עסק"
         ],
@@ -397,27 +320,7 @@
         ],
         "status": true,
         "title": "איך זה מתבצע",
-        "word-count": 42
-      },
-      {
-        "business_kinds": [
-          "בית קפה/מסעדה"
-        ],
-        "content": "אין צורך בחוות דעת מורשה נגישות כתלות בשטח הסעדה ומועד היתר הבנייה. ניתן להצהיר אם השטח קטן מ-50 מ\"ר והיתר הבנייה ניתן עד יולי 2009, או שהשטח קטן מ-25 מ\"ר וההיתר ניתן לאחר אוגוסט 2009. לפרטים נוספים יש לפנות למחלקת נגישות בעירייה.\n",
-        "module": [
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "owner": [
-          "rec7UM0GPJrFOMytw"
-        ],
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done"
-        ],
-        "status": true,
-        "title": "הצהרת נגישות במסעדות ובתי קפה",
-        "word-count": 42
+        "word-count": 36
       }
     ],
     "module": "רישוי עסק",
@@ -427,6 +330,7 @@
         "recqgrL1qK5G3VQGm",
         "rec96uDRXisRsM1xj"
       ],
+      "avatar": "data:image/jpeg;base64,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",
       "name": "{{city.chief_licensing_engineering}}",
       "title": "{{city.chief_licensing_engineering_title}}"
     },
@@ -453,26 +357,7 @@
         "word-count": 38
       },
       {
-        "content": "האישורים ניתנים על ידי היחידה הוטרינרית בעירייה ומשרד החקלאות. בעת הפגישה במחלקת רישוי עסקים יוסבר לך מה נדרש בדיוק ומי נותן את האישור הסופי.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "owner": [
-          "recwm63xuzUc9n83b"
-        ],
-        "stack-status": [
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מי נותן את האישור?",
-        "word-count": 24
-      },
-      {
-        "content": "תנאי התברואה מורכבים ומפורטים עבור כל סוג עסק. נושאים כלליים לדוגמא כוללים את תנאי אחסון המזון, הטיפול בשומנים ונוזלים שונים הפרדה פיזית בין אזורי פעילות שונים. למידע נוסף יש לפנות למחלקת תברואה באגף רישוי עסקים.\n",
+        "content": "תנאי התברואה מורכבים ומפורטים עבור כל סוג עסק. נושאים כלליים לדוגמא כוללים את תנאי אחסון המזון, הטיפול בשומנים ונוזלים שונים הפרדה פיזית בין אזורי פעילות שונים. למידע נוסף יש לפנות לעירייה הרלוונטית.\n",
         "module": [
           "רישוי עסק"
         ],
@@ -484,29 +369,21 @@
         ],
         "status": true,
         "title": "מה בודקים?",
-        "word-count": 35
+        "word-count": 32
       },
       {
-        "business_kinds": [
-          "אולם ארועים",
-          "פאב, בר או מועדון",
-          "בית קפה/מסעדה",
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר"
-        ],
-        "content": "במידה והעסק מוגדר כעסק עתיר סיכון/קהל אישור הכבאות יהווה תנאי סף לפתיחת העסק.\n",
+        "content": "האישורים יינתנו על ידי משרד הבריאות, התברואן הרשותי ולעיתים גם הוטרינר הרשותי. \n",
         "module": [
-          "רישוי עסק",
           "רישוי עסק"
         ],
         "owner": [
           "recwm63xuzUc9n83b"
         ],
         "stack-status": [
-          "done",
           "done"
         ],
         "status": true,
-        "title": "חשוב לדעת",
+        "title": "מי נותן את האישור?",
         "word-count": 13
       }
     ],
@@ -516,6 +393,7 @@
       "Stacks": [
         "rec9LkvjXq9sbztkb"
       ],
+      "avatar": "data:image/jpeg;base64,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",
       "name": "{{city.chief_licensing_health}}",
       "title": "{{city.chief_licensing_health_title}}"
     },
@@ -527,73 +405,71 @@
   {
     "cards": [
       {
-        "content": "רשות ארצית זו (\"מכבי האש\") אחראית להבטיח את ביטחון הציבור בעת שריפה או מצבי חירום כמו מילוט וחילוץ. הרשות אחראית לבדוק האם קיימים בעסק האמצעים הדרושים להתמודדות עם מצבים אלו. זהו אישור שרוב מוחלט של העסקים טעוני הרישוי נדרשים לו.\n",
+        "content": "רשות ארצית (\"כיבוי אש\") אחראית להבטיח את ביטחון הציבור בעת שריפה או מצבי חירום כמו מילוט וחילוץ. הרשות אחראית לבדוק האם קיימים בעסק האמצעים הדרושים להתמודדות עם מצבים אלו. זהו אישור שרוב מוחלט של העסקים נדרשים לו.\n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done"
         ],
         "status": true,
         "title": "הרשות הארצית לכבאות והצלה",
-        "word-count": 40
+        "word-count": 37
       },
       {
-        "content": "במקרים רבים ניתן לקבל את אישור מכבי האש באמצעות הצהרה, שהיא כמו \"רישוי עצמי\". צריך לזכור שנציגי מכבי האש עורכים בקרה בעסקים מסוג זה מעת לעת. כדאי לבדוק האם ניתן לקבל אישור מסוג זה בעסק שלך.\n",
+        "content": "במקרים רבים ניתן לקבל את אישור כיבוי אש באמצעות תצהיר בעל העסק. צריך לזכור שנציגי כיבוי אש עורכים בקרה בעסקים מסוג זה מעת לעת. כדאי לבדוק האם ניתן לקבל אישור מסוג זה בעסק שלך.\n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done"
         ],
         "status": true,
         "title": "הצהרה",
-        "word-count": 36
+        "word-count": 34
       },
       {
-        "content": "כדאי לשים לב שהצורך באישור כבאות תלוי במיקום העסק.\n",
+        "content": "מומלץ להיוועץ עם נציגי העירייה כיצד העסק שלך מסווג מבחינת דרישות כיבוי אש. תצהיר או ביקורת כיבוי אש.\n",
         "module": [
           "רישוי עסק"
         ],
         "module-old": "רישוי עסקים",
+        "owner": [
+          "rectg1rnqiSD0U3PM"
+        ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done"
         ],
         "status": true,
         "title": "לתשומת לבך",
-        "word-count": 9
-      },
-      {
-        "business_kinds": [
-          "אולם ארועים",
-          "פאב, בר או מועדון",
-          "בית קפה/מסעדה",
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר"
-        ],
-        "content": "במידה והעסק מוגדר כעסק עתיר סיכון/קהל אישור הכבאות יהווה תנאי סף לפתיחת העסק.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "owner": [
-          "recwm63xuzUc9n83b"
-        ],
-        "stack-status": [
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "חשוב לדעת",
-        "word-count": 13
+        "word-count": 18
       }
     ],
     "module": "רישוי עסק",
     "name": "fire-dept",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -603,44 +479,54 @@
   {
     "cards": [
       {
-        "content": "הפעילות העסקית של {{סוג_עסק}} כרוכה פעמים רבות בטיפול בנוזלים או בריחות. נציג המשרד לאיכות הסביבה יבחן האם קיימים האמצעים הנדרשים למניעת זיהום קרקע, אוויר או למניעת מפגעים סביבתיים אחרים. \n",
+        "content": "הפעילות העסקית של {{סוג_עסק}} כרוכה פעמים רבות בטיפול בנוזלים או בריחות. נציג המשרד להגנת הסביבה יבחן האם קיימים האמצעים הנדרשים למניעת זיהום קרקע, אוויר או למניעת מפגעים סביבתיים אחרים.\n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
           "done"
         ],
         "status": true,
-        "title": "אסכם לך את זה ב-30 מילים",
-        "word-count": 30
+        "title": "אסכם לך את זה ב-29 מילים",
+        "word-count": 29
       },
       {
-        "content": "האישורים ניתנים על ידי היחידה הוטרינרית בעירייה ומשרד החקלאות. בעת הפגישה במחלקת רישוי עסקים יוסבר לך מה נדרש בדיוק ומי נותן את האישור הסופי.\n",
+        "content": "האישורים יינתנו על ידי המשרד להגנת הסביבה או ע\"י היחידה לאיכות הסביבה בעירייה. \n",
         "module": [
-          "רישוי עסק",
-          "רישוי עסק",
           "רישוי עסק"
         ],
         "owner": [
-          "recwm63xuzUc9n83b"
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
-          "done",
-          "done",
           "done"
         ],
-        "status": true,
         "title": "מי נותן את האישור?",
-        "word-count": 24
+        "word-count": 14
       }
     ],
     "module": "רישוי עסק",
     "name": "environment",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -654,6 +540,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done"
         ],
@@ -665,9 +554,21 @@
     "module": "רישוי עסק",
     "name": "ordinance",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -677,48 +578,53 @@
   {
     "cards": [
       {
-        "content": "יש לקבל אישור מיוחד עבור מזון מן החי בצורתו הגולמית **או** טיפול בבע\"ח כמו שיש בעסקים מסוג איטליז, חנות חיות, מספרת לבע\"ח, בית קירור, בית מטבחיים, מפעל מזון וכדומה. על פי רוב אישור זה מחליף את אישור משרד הבריאות, אבל שווה לבדוק.\n",
+        "content": "יש לקבל אישור מיוחד עבור מזון מן החי בצורתו הגולמית או טיפול בבע\"ח כמו שיש בעסקים מסוג אטליז, חנות חיות, מספרת לבע\"ח, בית קירור, בית מטבחיים, מפעל מזון וכדומה. על פי רוב אישור זה מחליף את אישור משרד הבריאות, אבל שווה לבדוק.\n",
         "module": [
-          "רישוי עסק",
           "רישוי עסק"
         ],
         "owner": [
-          "rec7UM0GPJrFOMytw"
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
-          "done",
           "done"
         ],
         "status": true,
-        "title": "אסכם לך את זה ב-40 מילים",
+        "title": "אסכם לך את זה ב-42 מילים",
         "word-count": 42
       },
       {
-        "content": "האישורים ניתנים על ידי היחידה הוטרינרית בעירייה ומשרד החקלאות. בעת הפגישה במחלקת רישוי עסקים יוסבר לך מה נדרש בדיוק ומי נותן את האישור הסופי.\n",
+        "content": "האישורים יינתנו על ידי היחידה הוטרינרית בעירייה ומשרד החקלאות/הבריאות\n",
         "module": [
-          "רישוי עסק",
-          "רישוי עסק",
           "רישוי עסק"
         ],
         "owner": [
-          "recwm63xuzUc9n83b"
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
-          "done",
-          "done",
           "done"
         ],
-        "status": true,
         "title": "מי נותן את האישור?",
-        "word-count": 24
+        "word-count": 9
       }
     ],
     "module": "רישוי עסק",
     "name": "agriculture",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -728,24 +634,39 @@
   {
     "cards": [
       {
-        "content": "משטרת ישראל תבדוק ותאשר את התנאים הדרושים למניעת סכנות לשלום הציבור ואבטחה מפני פעילות פלילית כמו שוד או פריצה. לעיתים דרישות אלו כוללות הצבת גדר מסוג מסויים, מצלמות אבטחה, כספות, הצבת מאבטח.\n",
+        "content": "משטרת ישראל תבדוק ותאשר את התנאים הדרושים למניעת סכנות לשלום הציבור ואבטחה מפני פעילות פלילית כמו שוד או פריצה. לעיתים דרישות אלו כוללות הצבת גדר מסוג מסוים, מצלמות אבטחה, כספות, הצבת מאבטח וכדומה.\n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done"
         ],
         "status": true,
-        "title": "אסכם לך את זה ב-32 מילים",
-        "word-count": 32
+        "title": "אסכם לך את זה ב-33 מילים",
+        "word-count": 33
       }
     ],
     "module": "רישוי עסק",
     "name": "police",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -758,16 +679,33 @@
         "business_kinds": [
           "לא טעוני רישוי"
         ],
-        "content": "בין אם העסק שלך נדרש ברישיון או לא, ישנן תקנות עירוניות שכל העסקים צריכים לעמוד בדרישותיהן. דרישות אלו נאכפות בשלב התארגנות העסק או לאחר הפתיחה ולחלקן משמעות כספית או עסקית שכדאי לקחת בחשבון מראש. מומלץ לבדוק את הדרישות הללו ולבחור מיקום או פעילות עסקית מתאימים. ריכזנו לך את הנושאים המרכזיים הנדרשים.\n",
+        "content": "בין אם העסק שלך נדרש ברישיון או לא, ישנן תקנות עירוניות/מפרט רשותי שכל העסקים צריכים לעמוד בדרישותיהם.  דרישות אלו נאכפות בשלב התארגנות העסק או לאחר הפתיחה ולחלקם משמעות כספית או עסקית שכדאי לקחת בחשבון מראש. מומלץ לבדוק את הדרישות הללו ולבחור מיקום או פעילות עסקית מתאימים. \n",
         "module": [
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done"
         ],
         "status": true,
-        "title": "אסכם לך את זה ב -51 מילים",
-        "word-count": 51
+        "title": "אסכם לך את זה ב -47 מילים",
+        "word-count": 47
+      },
+      {
+        "content": "מומלץ ליצור קשר עם העירייה לקבלת מידע בנוגע לנכס בו עומד לקום העסק: בדיקה אם ישנן תביעות או צווים, אם קיים היתר בנייה ולמה מיועד, מה מוגדר בתב\"ע, והתייעצות כללית.\n",
+        "module": [
+          "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
+        ],
+        "stack-status": [
+          "done"
+        ],
+        "title": "איך נכון לגשת לזה?",
+        "word-count": 30
       },
       {
         "business_kinds": [
@@ -777,6 +715,9 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done"
         ],
@@ -785,13 +726,14 @@
         "word-count": 63
       },
       {
-        "content": "העסק שלך צריך להיות נגיש גם לאנשים עם מוגבליות (זה החוק). מדובר בנגישות גם של תשתיות פיזיות וגם של השירות שניתן. אנחנו במחלקת נגישות באגף רישוי עסקים נעזור לך להבין את הדרישות השונות ונהיה הגורם המאשר לנושא.\n",
+        "content": "העסק שלך צריך להיות נגיש גם לאנשים עם מוגבליות (זה החוק). מדובר בנגישות גם של תשתיות פיזיות וגם של השירות שניתן\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק"
         ],
         "owner": [
-          "rec7UM0GPJrFOMytw"
+          "rec7UM0GPJrFOMytw",
+          "rectg1rnqiSD0U3PM"
         ],
         "responsible": "אגף רישוי עסקים",
         "stack-status": [
@@ -800,7 +742,7 @@
         ],
         "status": true,
         "title": "נגישות",
-        "word-count": 37
+        "word-count": 21
       },
       {
         "business_kinds": [
@@ -810,30 +752,35 @@
         "module": [
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done"
         ],
         "status": true,
         "title": "איכות הסביבה",
         "word-count": 68
-      },
-      {
-        "module": [
-          "רישוי עסק"
-        ],
-        "stack-status": [
-          "done"
-        ],
-        "title": "שימור",
-        "word-count": 1
       }
     ],
     "module": "רישוי עסק",
     "name": "common",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -843,12 +790,18 @@
   {
     "cards": [
       {
-        "content": "חשוב לנו בעירייה לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
+        "content": "חשוב לנו לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -858,33 +811,35 @@
         ],
         "status": true,
         "title": "אסכם לך את זה ב-56 מילים",
-        "word-count": 56
+        "word-count": 55
       },
       {
-        "content": "בהתאם לסוג העסק והגדרת החוק, נציגי האגף שולחים את הבקשה לרישיון העסק לגורמי הרישוי השונים. כל גורם רישוי בודק נושא אחר. חלק מהגורמים שייכים לעיריית ב\"ש וחלקם משרדי ממשלה או רשויות ארציות. בכל מקרה, אגף רישוי עסקים מלווה אותך את בקבלת האישור מכל גורם.\n",
+        "content": "במסגרת מסלול היתר מזורז א ניתן לקבל היתר/רישיון מזורז ל 180 ימים בתוך 21 ימים. הדבר מותנה בבדיקת העירייה בלבד ובתנאי עמידה בדרישות החוק והרשות ובהגשת תצהיר בעל העסק. לאחר קבלת היתר/הרישיון המזורז ל 180 ימים יגיעו שאר נותני האישור לביקורת בעסק (כיבוי אש, משטרה וכדומה) זאת בהתאם לסוג העסק והגדרת החוק, במידה ושאר נותני האישור מעבירים את אישורם לבקשה לרישיון ניתן יהיה להפיק רישיון בכל מקרה, אגף רישוי עסקים מלווה אותך לאורך כל הדרך.\n",
         "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
-          "done",
-          "done",
-          "done",
           "done"
         ],
-        "status": true,
         "title": "מי נותן לי את האישור?",
-        "word-count": 43
+        "word-count": 75
       },
       {
-        "content": "קודם נקבע פגישה עם אחד מנציגי אגף רישוי עסקים, אפשר לקבוע גם פגישת וידאו\\*. בפגישה נעבור יחד על ההנחיות להגשת הבקשה לרישיון עסק.\nלאחר שהבקשה מוגשת (בעותק קשיח), לעיתים קרובות יש דרישות להשלמה, ולכן הזמן לקבלת הרישיון משתנה מעסק לעסק. לרוב בעלי העסקים מדובר בפרק זמן של מספר חודשים, אבל זה בהחלט יכול להיות קצר יותר. \n\n\\*בסוף הצ׳אט אנחה אותך כיצד ניתן לתאם שיחה כזו.\n",
+        "content": "לאחר הגשת הבקשה אנו ממליצים שתלווה באופן אישי את הליך אישור תכנית העסק גם כדי לוודא כי בעל המקצוע שהעסקת לטיפול בתכנית אכן מקדמה על פי הנדרש. כמו כן דרושה מעורבות שלך בקשר עם נותני האישור השונים ולוודא שמגיעים לביקורת בעסק וכד'. אנחנו כמובן נבצע זאת יחד עמך. מעורבות גבוהה שלך בהליך יכולה לקדם רישיון בזמן קצר יותר. \n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -894,15 +849,21 @@
         ],
         "status": true,
         "title": "איך נעשה את זה?",
-        "word-count": 64
+        "word-count": 59
       },
       {
-        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון. \n",
+        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסביבה לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -928,6 +889,12 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -940,84 +907,20 @@
       },
       {
         "business_kinds": [
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר",
-          "בית קפה/מסעדה",
-          "פאב, בר או מועדון",
-          "אולם ארועים"
-        ],
-        "content": "עסקים עתירי סיכון נפוצים לדוגמא: אולמות שמחה, פאבים או ברים מעל שטח 100 מ\"ר, מסעדות מעל שטח 300 מ\"ר, משחקיות, עסקים מעל שטח 800 מ\"ר. בכל מקרה, במידה והעסק שלך הוא כזה, נדבר על זה בפגישה שלנו להבנת דרישות רישוי העסק.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "האם העסק שלי הוא כזה?",
-        "word-count": 41
-      },
-      {
-        "business_kinds": [
-          "בית קפה/מסעדה"
-        ],
-        "content": "מעל שטח 300 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים. \n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי מסעדה מוגדרת כעסק עתיר סיכון/קהל?",
-        "word-count": 15
-      },
-      {
-        "business_kinds": [
-          "פאב, בר או מועדון"
-        ],
-        "content": "מעל שטח 100 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי פאב/בר/מועדון נחשב עסק עתיק סיכון/קהל?",
-        "word-count": 14
-      },
-      {
-        "business_kinds": [
           "טעוני רישוי"
         ],
-        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק.\n",
+        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק. על פי חוק בבקשה להחלפת בעלות בעסק שיש לו רישיון (ולא נדרש בעסק אישור משטרה) ניתן להעביר את הרישיון כמעט באופן אוטומטי בתנאי עמידה בתנאי 'העברת בעלות' (תצהיר בעל העסק היוצא יחד עם בעל העסק החדש + הצגת תאריך חוזה העברת בעלות + תצהיר שלא בוצע שינוי בעסק). בעסק שנדרש אישור משטרה ינתן היתר זמני ל 30 ימים בעת העברת בעלות עד לקבלת התייחסות המשטרה בגין הבעלים החדש\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1027,30 +930,48 @@
         ],
         "status": true,
         "title": "טיפ של אלופים",
-        "word-count": 29
+        "word-count": 97
       }
     ],
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial-a",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
     "subtitle": " מה זה אומר בעצם?",
-    "title": "רישוי עסק במסלול היתר מזורז א׳"
+    "title": "רישוי עסק במסלול היתר מזורז א׳:"
   },
   {
     "cards": [
       {
-        "content": "חשוב לנו בעירייה לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
+        "content": "חשוב לנו לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1060,33 +981,35 @@
         ],
         "status": true,
         "title": "אסכם לך את זה ב-56 מילים",
-        "word-count": 56
+        "word-count": 55
       },
       {
-        "content": "בהתאם לסוג העסק והגדרת החוק, נציגי האגף שולחים את הבקשה לרישיון העסק לגורמי הרישוי השונים. כל גורם רישוי בודק נושא אחר. חלק מהגורמים שייכים לעיריית ב\"ש וחלקם משרדי ממשלה או רשויות ארציות. בכל מקרה, אגף רישוי עסקים מלווה אותך את בקבלת האישור מכל גורם.\n",
+        "content": "במסגרת מסלול היתר מזורז ב ניתן לקבל היתר/רישיון מזורז ל 180 ימים בתוך 49 ימים. הדבר מותנה בבדיקת העירייה ונותני האישור ובתנאי עמידה בדרישות החוק והרשות ובהגשת תצהיר בעל העסק. לאחר קבלת היתר/הרישיון המזורז ל 180 ימים יגיעו נותני האישור לביקורת בעסק (כיבוי אש, משטרה וכדומה) זאת בהתאם לסוג העסק והגדרת החוק, במידה ונותני האישור מעבירים את אישורם לבקשה לרישיון ניתן יהיה להפיק רישיון בכל מקרה, אגף רישוי עסקים בעירייה מלווה אותך לאורך כל הדרך.\n",
         "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
-          "done",
-          "done",
-          "done",
           "done"
         ],
-        "status": true,
         "title": "מי נותן לי את האישור?",
-        "word-count": 43
+        "word-count": 75
       },
       {
-        "content": "קודם נקבע פגישה עם אחד מנציגי אגף רישוי עסקים, אפשר לקבוע גם פגישת וידאו\\*. בפגישה נעבור יחד על ההנחיות להגשת הבקשה לרישיון עסק.\nלאחר שהבקשה מוגשת (בעותק קשיח), לעיתים קרובות יש דרישות להשלמה, ולכן הזמן לקבלת הרישיון משתנה מעסק לעסק. לרוב בעלי העסקים מדובר בפרק זמן של מספר חודשים, אבל זה בהחלט יכול להיות קצר יותר. \n\n\\*בסוף הצ׳אט אנחה אותך כיצד ניתן לתאם שיחה כזו.\n",
+        "content": "לאחר הגשת הבקשה אנו ממליצים שתלווה באופן אישי את הליך אישור תכנית העסק גם כדי לוודא כי בעל המקצוע שהעסקת לטיפול בתכנית אכן מקדמה על פי הנדרש. כמו כן דרושה מעורבות שלך בקשר עם נותני האישור השונים ולוודא שמגיעים לביקורת בעסק וכד'. אנחנו כמובן נבצע זאת יחד עמך. מעורבות גבוהה שלך בהליך יכולה לקדם רישיון בזמן קצר יותר. \n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1096,15 +1019,21 @@
         ],
         "status": true,
         "title": "איך נעשה את זה?",
-        "word-count": 64
+        "word-count": 59
       },
       {
-        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון. \n",
+        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסביבה לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1130,6 +1059,12 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -1142,84 +1077,20 @@
       },
       {
         "business_kinds": [
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר",
-          "בית קפה/מסעדה",
-          "פאב, בר או מועדון",
-          "אולם ארועים"
-        ],
-        "content": "עסקים עתירי סיכון נפוצים לדוגמא: אולמות שמחה, פאבים או ברים מעל שטח 100 מ\"ר, מסעדות מעל שטח 300 מ\"ר, משחקיות, עסקים מעל שטח 800 מ\"ר. בכל מקרה, במידה והעסק שלך הוא כזה, נדבר על זה בפגישה שלנו להבנת דרישות רישוי העסק.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "האם העסק שלי הוא כזה?",
-        "word-count": 41
-      },
-      {
-        "business_kinds": [
-          "בית קפה/מסעדה"
-        ],
-        "content": "מעל שטח 300 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים. \n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי מסעדה מוגדרת כעסק עתיר סיכון/קהל?",
-        "word-count": 15
-      },
-      {
-        "business_kinds": [
-          "פאב, בר או מועדון"
-        ],
-        "content": "מעל שטח 100 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי פאב/בר/מועדון נחשב עסק עתיק סיכון/קהל?",
-        "word-count": 14
-      },
-      {
-        "business_kinds": [
           "טעוני רישוי"
         ],
-        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק.\n",
+        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק. על פי חוק בבקשה להחלפת בעלות בעסק שיש לו רישיון (ולא נדרש בעסק אישור משטרה) ניתן להעביר את הרישיון כמעט באופן אוטומטי בתנאי עמידה בתנאי 'העברת בעלות' (תצהיר בעל העסק היוצא יחד עם בעל העסק החדש + הצגת תאריך חוזה העברת בעלות + תצהיר שלא בוצע שינוי בעסק). בעסק שנדרש אישור משטרה ינתן היתר זמני ל 30 ימים בעת העברת בעלות עד לקבלת התייחסות המשטרה בגין הבעלים החדש\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1229,15 +1100,27 @@
         ],
         "status": true,
         "title": "טיפ של אלופים",
-        "word-count": 29
+        "word-count": 97
       }
     ],
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial-b",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
@@ -1247,12 +1130,18 @@
   {
     "cards": [
       {
-        "content": "חשוב לנו בעירייה לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
+        "content": "חשוב לנו לשלב בין עסקים לבין החיים בעיר בצורה אופטימלית. לכן, הקמת {{סוג_עסק}} דורשת סדרת אישורים ששמם הכולל הוא \"רישוי עסקים\". כל סוג, מיקום ופעילות עסקית צריכים אישורים שונים. רק כשעסק מקבל את כלל האישורים, אז הוא בעל רישיון עסק. אגף רישוי עסקים בעירייה הוא הגורם שיעזור לך להבין אילו אישורים נדרשים ומתכלל את הנושא.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1262,33 +1151,35 @@
         ],
         "status": true,
         "title": "אסכם לך את זה ב-56 מילים",
-        "word-count": 56
+        "word-count": 55
       },
       {
-        "content": "בהתאם לסוג העסק והגדרת החוק, נציגי האגף שולחים את הבקשה לרישיון העסק לגורמי הרישוי השונים. כל גורם רישוי בודק נושא אחר. חלק מהגורמים שייכים לעיריית ב\"ש וחלקם משרדי ממשלה או רשויות ארציות. בכל מקרה, אגף רישוי עסקים מלווה אותך את בקבלת האישור מכל גורם.\n",
+        "content": "במסגרת מסלול תצהיר ניתן לקבל רישיון בתוך 21 ימים. הדבר מותנה בבדיקת העירייה בלבד ובתנאי עמידה בדרישות החוק והרשות ובהגשת תצהיר בעל העסק. נותני האישור יעודכנו על הפקת הרישיון לאחר הוצאתו. יתן יהיה להפיק רישיון בכל מקרה, אגף רישוי עסקים מלווה אותך לאורך כל הדרך.\n",
         "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
-          "done",
-          "done",
-          "done",
           "done"
         ],
-        "status": true,
         "title": "מי נותן לי את האישור?",
-        "word-count": 43
+        "word-count": 45
       },
       {
-        "content": "קודם נקבע פגישה עם אחד מנציגי אגף רישוי עסקים, אפשר לקבוע גם פגישת וידאו\\*. בפגישה נעבור יחד על ההנחיות להגשת הבקשה לרישיון עסק.\nלאחר שהבקשה מוגשת (בעותק קשיח), לעיתים קרובות יש דרישות להשלמה, ולכן הזמן לקבלת הרישיון משתנה מעסק לעסק. לרוב בעלי העסקים מדובר בפרק זמן של מספר חודשים, אבל זה בהחלט יכול להיות קצר יותר. \n\n\\*בסוף הצ׳אט אנחה אותך כיצד ניתן לתאם שיחה כזו.\n",
+        "content": "לאחר הגשת הבקשה אנו ממליצים שתלווה באופן אישי את הליך אישור תכנית העסק גם כדי לוודא כי בעל המקצוע שהעסקת לטיפול בתכנית אכן מקדמה על פי הנדרש. כמו כן דרושה מעורבות שלך בקשר עם נותני האישור השונים ולוודא שמגיעים לביקורת בעסק וכד'. אנחנו כמובן נבצע זאת יחד עמך. מעורבות גבוהה שלך בהליך יכולה לקדם רישיון בזמן קצר יותר. \n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1298,15 +1189,21 @@
         ],
         "status": true,
         "title": "איך נעשה את זה?",
-        "word-count": 64
+        "word-count": 59
       },
       {
-        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון. \n",
+        "content": "לפני שמתחייבים בהסכם שכירות, רכישת נכס או הוצאות כספיות כדאי לבדוק את התאמתו לסביבה לסוג העסק ותנאי הרישיון הדרושים. כדאי לבדוק, לפעמים שינוי קטן בפעילות העסק או בגודלו משפיעים על דרישות הרישוי בצורה משמעותית.\nמעבר לזה, חשוב שהבקשה לקבלת רישיון עסק תוגש בהקדם האפשרי כדי למנוע פתיחת עסק ללא רישיון.\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1332,6 +1229,12 @@
           "רישוי עסק",
           "רישוי עסק"
         ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
+        ],
         "stack-status": [
           "done",
           "done",
@@ -1344,84 +1247,20 @@
       },
       {
         "business_kinds": [
-          "משחקיה/ג׳ימבורי/באולינג/סנוקר",
-          "בית קפה/מסעדה",
-          "פאב, בר או מועדון",
-          "אולם ארועים"
-        ],
-        "content": "עסקים עתירי סיכון נפוצים לדוגמא: אולמות שמחה, פאבים או ברים מעל שטח 100 מ\"ר, מסעדות מעל שטח 300 מ\"ר, משחקיות, עסקים מעל שטח 800 מ\"ר. בכל מקרה, במידה והעסק שלך הוא כזה, נדבר על זה בפגישה שלנו להבנת דרישות רישוי העסק.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "האם העסק שלי הוא כזה?",
-        "word-count": 41
-      },
-      {
-        "business_kinds": [
-          "בית קפה/מסעדה"
-        ],
-        "content": "מעל שטח 300 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים. \n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי מסעדה מוגדרת כעסק עתיר סיכון/קהל?",
-        "word-count": 15
-      },
-      {
-        "business_kinds": [
-          "פאב, בר או מועדון"
-        ],
-        "content": "מעל שטח 100 מ\"ר, העסק צריך לעמוד בתנאי סף המוגדרים ע\"י אגף רישוי עסקים.\n",
-        "module": [
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק",
-          "רישוי עסק"
-        ],
-        "module-old": "רישוי עסקים",
-        "responsible": "אגף רישוי עסקים",
-        "stack-status": [
-          "done",
-          "done",
-          "done",
-          "done"
-        ],
-        "status": true,
-        "title": "מתי פאב/בר/מועדון נחשב עסק עתיק סיכון/קהל?",
-        "word-count": 14
-      },
-      {
-        "business_kinds": [
           "טעוני רישוי"
         ],
-        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק.\n",
+        "content": "לפעמים להעביר רישיון של בית עסק קיים הרבה יותר קל ומהיר מליצור רישיון עסק חדש. פרט זה יכול להפוך לשיקול של ממש בבחירת המקום שבו תבקשו לפתוח את העסק. על פי חוק בבקשה להחלפת בעלות בעסק שיש לו רישיון (ולא נדרש בעסק אישור משטרה) ניתן להעביר את הרישיון כמעט באופן אוטומטי בתנאי עמידה בתנאי 'העברת בעלות' (תצהיר בעל העסק היוצא יחד עם בעל העסק החדש + הצגת תאריך חוזה העברת בעלות + תצהיר שלא בוצע שינוי בעסק). בעסק שנדרש אישור משטרה ינתן היתר זמני ל 30 ימים בעת העברת בעלות עד לקבלת התייחסות המשטרה בגין הבעלים החדש\n",
         "module": [
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק",
           "רישוי עסק"
+        ],
+        "owner": [
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM",
+          "rectg1rnqiSD0U3PM"
         ],
         "stack-status": [
           "done",
@@ -1431,15 +1270,27 @@
         ],
         "status": true,
         "title": "טיפ של אלופים",
-        "word-count": 29
+        "word-count": 97
       }
     ],
     "module": "רישוי עסק",
     "name": "business-licensing-tutorial-deposition",
     "owner": {
-      "avatar": "https://www.gravatar.com/avatar/HASH",
-      "name": "EMPTY",
-      "title": "EMPTY"
+      "Stacks": [
+        "recOqzoSNKB5z6ATV",
+        "rec0K8QjVjLEThi8i",
+        "recaVCjViInczh0vI",
+        "receWjlIq4DgR8j50",
+        "recWDvKn47QZl5NiK",
+        "recJ6AybawctliEIJ",
+        "recj6Hd5scEOUq9YP",
+        "recTLGx6LMWUJDOag",
+        "recaQcqNfIvSAkHCL",
+        "recvvrvXG0jyuPM8h"
+      ],
+      "avatar": "data:image/jpeg;base64,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",
+      "name": "{{city.chief_licensing}}",
+      "title": "{{city.chief_licensing_title}}"
     },
     "scheme": "yellow",
     "status": "done",
