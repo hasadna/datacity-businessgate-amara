@@ -115,7 +115,8 @@ export class ChatMsgSelectFromListComponent implements OnInit {
           item_list_id: this.args.source,
           items: [{
             item_name: item.value
-          }]
+          }],
+          debug_mode: true
         });
       }
     } else {
