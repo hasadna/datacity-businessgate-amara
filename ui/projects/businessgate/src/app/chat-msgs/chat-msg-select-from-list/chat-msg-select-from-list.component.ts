@@ -113,7 +113,6 @@ export class ChatMsgSelectFromListComponent implements OnInit {
         const gtag = window['gtag'] as any;
         gtag('event', 'select_item', {
           item_list_id: this.args.source,
-          event_label: this.args.source,
           items: [{
             item_name: item.value
           }]
