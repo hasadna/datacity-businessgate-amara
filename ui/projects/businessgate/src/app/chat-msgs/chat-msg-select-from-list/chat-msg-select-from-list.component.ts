@@ -109,6 +109,16 @@ export class ChatMsgSelectFromListComponent implements OnInit {
     if (item.value) {
       this.done = true;
       this.selection.next(item.value);  
+      if (window['gtag']) {
+        const gtag = window['gtag'] as any;
+        gtag('event', 'select_item', {
+          item_list_id: this.args.source,
+          event_label: this.args.source,
+          items: [{
+            item_name: item.value
+          }]
+        });
+      }
     } else {
       this.stack.unshift({prefix: item.display, items: this.items});
       this.inputEl.nativeElement.value = item.display + ' ';
