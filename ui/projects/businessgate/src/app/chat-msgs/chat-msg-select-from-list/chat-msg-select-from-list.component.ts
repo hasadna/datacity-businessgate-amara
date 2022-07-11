@@ -114,7 +114,7 @@ export class ChatMsgSelectFromListComponent implements OnInit {
         gtag('event', 'select_item', {
           item_list_id: this.args.source,
           items: [{
-            item_name: item.value
+            item_name: item.display
           }],
           debug_mode: true
         });
