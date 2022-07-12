@@ -111,10 +111,10 @@ export class ChatMsgSelectFromListComponent implements OnInit {
       this.selection.next(item.value);  
       if (window['gtag']) {
         const gtag = window['gtag'] as any;
-        gtag('event', 'select_item', {
-          item_list_id: this.args.source,
+        gtag('event', 'view_item', {
           items: [{
-            item_name: item.display
+            item_name: item.display,
+            item_category: this.args.source,
           }],
           debug_mode: true
         });
